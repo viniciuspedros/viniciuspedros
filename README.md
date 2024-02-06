@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center"> Olá, sou Vinícius Pedroso </h1>
 
-<!--
-**viniciuspedros/viniciuspedros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Software+Developer;Sempre+buscando+conhecimento)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![Views Conter](https://komarev.com/ghpvc/?username=viniciuspedros&color=green&abbreviated=true&style=for-the-badge&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Sobre </h2>
+
+- 📫Como me achar: [lujuvini@hotmail.com](mailto:lujuvini@hotmail.com)
+
+<br>
+
+<h2> Principais Linguagens & Tecnologias </h2>
+<p>
+    <img src="https://skillicons.dev/icons?i=html,css,lua" />
+</p>
+
+<br>
+
+<h2> Linguagens & Tecnologias que estou estudando... </h2>
+<p>
+    <img src="https://skillicons.dev/icons?i=js,react" />
+</p>
+
+
+<br>
+
+<h2> Contato </h2>
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/vinícius-pedroso-92a39a2a8)

@@ -4,6 +4,8 @@
 
 ![Views Conter](https://komarev.com/ghpvc/?username=viniciuspedros&color=green&abbreviated=true&style=for-the-badge&color=blue)
 
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=viniciuspedros&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2> Sobre </h2>
 
 - 📫Como me achar: [lujuvini@hotmail.com](mailto:lujuvini@hotmail.com)
